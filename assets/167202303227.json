@@ -1,0 +1,2120 @@
+{
+  "status": "success",
+  "message": null,
+  "data": [
+    {
+      "title": "Starbucks Coffee",
+      "rating": "4.6",
+      "reviews": "1,358",
+      "type": "Coffee shop",
+      "address": "Jl. Pesanggrahan Mas Raya No.1, RT.1/RW.7",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inDrive-throughNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1888523",
+        "longitude": "106.7559294"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee/data=!4m7!3m6!1s0x2e69f773ffffffd9:0x19bdccd6bec857cb!8m2!3d-6.1888523!4d106.7559294!16s%2Fg%2F1ptwbr4s5!19sChIJ2f___3P3aS4Ry1fIvtbMvRk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f773ffffffd9:0x19bdccd6bec857cb"
+    },
+    {
+      "title": "STARBUCKS COFFEE 2",
+      "rating": "4.6",
+      "reviews": "1,063",
+      "type": "Coffee shop",
+      "address": "Jl. Puri Indah Raya No.3, RT.2/RW.2",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 22582788",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1879618",
+        "longitude": "106.7385626"
+      },
+      "placeUrl": "https://www.google.com/maps/place/STARBUCKS+COFFEE+2/data=!4m7!3m6!1s0x2e69f76e2bd99539:0x79106f40448e6231!8m2!3d-6.1879618!4d106.7385626!16s%2Fg%2F11bw50r53l!19sChIJOZXZK273aS4RMWKOREBvEHk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f76e2bd99539:0x79106f40448e6231"
+    },
+    {
+      "title": "Starbucks Coffee 1 - Lippo Mall Puri",
+      "rating": "3.8",
+      "reviews": "46",
+      "type": "Cafe",
+      "address": "3, RT.3/RW.2",
+      "openState": "Closed ⋅ Opens 10 AM",
+      "phone": "Closed ⋅ Opens 10 AM",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1892496",
+        "longitude": "106.7389864"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+1+-+Lippo+Mall+Puri/data=!4m7!3m6!1s0x2e69f771d82ad11f:0xfad3651e3fcc72f3!8m2!3d-6.1892496!4d106.7389864!16s%2Fg%2F11f5h318s7!19sChIJH9Eq2HH3aS4R83LMPx5l0_o?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f771d82ad11f:0xfad3651e3fcc72f3"
+    },
+    {
+      "title": "Starbucks Gallery West",
+      "rating": "4.6",
+      "reviews": "386",
+      "type": "Cafe",
+      "address": "Gallery West, AKR Tower, Jl. Perjuangan No.40A, RT.11/RW.10",
+      "openState": "Closed ⋅ Opens 9 AM",
+      "phone": "(021) 22124575",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1909946",
+        "longitude": "106.7679064"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Gallery+West/data=!4m7!3m6!1s0x2e69f71d00706b95:0xd2f30ee26519fc99!8m2!3d-6.1909946!4d106.7679064!16s%2Fg%2F11fx999lyq!19sChIJlWtwAB33aS4RmfwZZeIO89I?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f71d00706b95:0xd2f30ee26519fc99"
+    },
+    {
+      "title": "Starbucks Wang Plaza",
+      "rating": "4.7",
+      "reviews": "118",
+      "type": "Coffee shop",
+      "address": "Jl. Panjang No.Kav 17, RW.11",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 21251238",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1729507",
+        "longitude": "106.7658871"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Wang+Plaza/data=!4m7!3m6!1s0x2e69f74fcd1b5735:0xa5adac69cbfa657d!8m2!3d-6.1729507!4d106.7658871!16s%2Fg%2F11lh4r8gk7!19sChIJNVcbzU_3aS4RfWX6y2msraU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f74fcd1b5735:0xa5adac69cbfa657d"
+    },
+    {
+      "title": "Starbucks Mall Puri Indah Reserve",
+      "rating": "4.6",
+      "reviews": "1,190",
+      "type": "Coffee shop",
+      "address": "Jl. Puri Agung, RT.1/RW.2",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 5822755",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1876012",
+        "longitude": "106.7339274"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Mall+Puri+Indah+Reserve/data=!4m7!3m6!1s0x2e69f77acee7de79:0xc5f5c0acea49a0d8!8m2!3d-6.1876012!4d106.7339274!16s%2Fg%2F1td10ctm!19sChIJed7nznr3aS4R2KBJ6qzA9cU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f77acee7de79:0xc5f5c0acea49a0d8"
+    },
+    {
+      "title": "Starbucks Tanjung Duren",
+      "rating": "4.6",
+      "reviews": "950",
+      "type": "Coffee shop",
+      "address": "Jl. Tj. Duren Barat 1 No.10, RT.12/RW.2",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1740697",
+        "longitude": "106.780281"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Tanjung+Duren/data=!4m7!3m6!1s0x2e69f7455beb0bcf:0x8c6818000eebcd4a!8m2!3d-6.1740697!4d106.780281!16s%2Fg%2F11h0mhzrns!19sChIJzwvrW0X3aS4RSs3rDgAYaIw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f7455beb0bcf:0x8c6818000eebcd4a"
+    },
+    {
+      "title": "Starbucks Mal Taman Anggrek",
+      "rating": "3.6",
+      "reviews": "67",
+      "type": "Coffee shop",
+      "address": "Jl. Letjen S. Parman No.Kav 21, RT.12/RW.1",
+      "openState": "Closed ⋅ Opens 9 AM",
+      "phone": "(021) 56998403",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1793809",
+        "longitude": "106.792425"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Mal+Taman+Anggrek/data=!4m7!3m6!1s0x2e69f74b477f9d37:0xc288c501e78c5989!8m2!3d-6.1793809!4d106.792425!16s%2Fg%2F11gh4778xw!19sChIJN51_R0v3aS4RiVmM5wHFiMI?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f74b477f9d37:0xc288c501e78c5989"
+    },
+    {
+      "title": "Starbucks MGR 1",
+      "rating": "4.7",
+      "reviews": "301",
+      "type": "Coffee shop",
+      "address": "Jl. Tanjung Duren Raya No.Kav.5-9, RT.3/RW.5",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 30049906",
+      "website": "http://www.starbucks.co.id/medit",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1742365",
+        "longitude": "106.7884907"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+MGR+1/data=!4m7!3m6!1s0x2e69f65ecc8b5f19:0x1672f8384e4384a8!8m2!3d-6.1742365!4d106.7884907!16s%2Fg%2F11hbfkm6hk!19sChIJGV-LzF72aS4RqIRDTjj4chY?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f65ecc8b5f19:0x1672f8384e4384a8"
+    },
+    {
+      "title": "Starbucks Coffee Pos Pengumben",
+      "rating": "4.6",
+      "reviews": "1,338",
+      "type": "Coffee shop",
+      "address": "Jl. Raya Pos Pengumben No.34A, RT.10/RW.3",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 5840807",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2171226",
+        "longitude": "106.7614543"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Pos+Pengumben/data=!4m7!3m6!1s0x2e69f728f5a6cdab:0xe13ea419211440a8!8m2!3d-6.2171226!4d106.7614543!16s%2Fg%2F11h6dr2vdw!19sChIJq82m9Sj3aS4RqEAUIRmkPuE?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f728f5a6cdab:0xe13ea419211440a8"
+    },
+    {
+      "title": "Starbucks Kemanggisan Raya",
+      "rating": "4.7",
+      "reviews": "1,481",
+      "type": "Coffee shop",
+      "address": "Jl. Kemanggisan Raya No.34, RT.8/RW.5",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 22128717",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1980011",
+        "longitude": "106.7820748"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Kemanggisan+Raya/data=!4m7!3m6!1s0x2e69f73b963b376f:0x8fb893586800ff47!8m2!3d-6.1980011!4d106.7820748!16s%2Fg%2F11fhtl35rh!19sChIJbzc7ljv3aS4RR_8AaFiTuI8?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f73b963b376f:0x8fb893586800ff47"
+    },
+    {
+      "title": "STARBUCKS BINUS ANGGREK",
+      "rating": "4.5",
+      "reviews": "70",
+      "type": "Coffee shop",
+      "address": "Binus University, Anggrek Campus, RT.2/RW.9",
+      "openState": "Closed ⋅ Opens 8 AM Mon",
+      "phone": "Closed ⋅ Opens 8 AM Mon",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2017713",
+        "longitude": "106.7824379"
+      },
+      "placeUrl": "https://www.google.com/maps/place/STARBUCKS+BINUS+ANGGREK/data=!4m7!3m6!1s0x2e69f7c6c897f949:0xb836d78a771a8013!8m2!3d-6.2017713!4d106.7824379!16s%2Fg%2F11f8l2wc77!19sChIJSfmXyMb3aS4RE4Aad4rXNrg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f7c6c897f949:0xb836d78a771a8013"
+    },
+    {
+      "title": "Starbucks Coffee Raden Saleh (Karang Tengah)",
+      "rating": "4.6",
+      "reviews": "943",
+      "type": "Coffee shop",
+      "address": "Jl. Raden Saleh No.188, RT.004/RW.007",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 1500078",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.203827",
+        "longitude": "106.7167781"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Raden+Saleh+%28Karang+Tengah%29/data=!4m7!3m6!1s0x2e69f900443d7209:0x322327f619304548!8m2!3d-6.203827!4d106.7167781!16s%2Fg%2F11gwgz8wsh!19sChIJCXI9RAD5aS4RSEUwGfYnIzI?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f900443d7209:0x322327f619304548"
+    },
+    {
+      "title": "Starbucks - Central Park Mall",
+      "rating": "4.6",
+      "reviews": "1,206",
+      "type": "Coffee shop",
+      "address": "Jl. S Parman Kav 28 L1-133, First Floor Jakarta JK, RT.12/RW.6",
+      "openState": "Closed ⋅ Opens 10 AM",
+      "phone": "(021) 29200367",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.176956",
+        "longitude": "106.791294"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+-+Central+Park+Mall/data=!4m7!3m6!1s0x2e69f68b1d3f234f:0xcea7b1fef10dcc16!8m2!3d-6.176956!4d106.791294!16s%2Fg%2F1td44sm9!19sChIJTyM_HYv2aS4RFswN8f6xp84?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f68b1d3f234f:0xcea7b1fef10dcc16"
+    },
+    {
+      "title": "Starbucks NEO SOHO",
+      "rating": "4.6",
+      "reviews": "620",
+      "type": "Coffee shop",
+      "address": "RT.15/RW.5",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 27893326",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1752213",
+        "longitude": "106.7903039"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+NEO+SOHO/data=!4m7!3m6!1s0x2e69f65f1c705a2d:0xcc4d53e1d93d0a65!8m2!3d-6.1752213!4d106.7903039!16s%2Fg%2F11g70vw1yp!19sChIJLVpwHF_2aS4RZQo92eFTTcw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f65f1c705a2d:0xcc4d53e1d93d0a65"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.5",
+      "reviews": "397",
+      "type": "Coffee shop",
+      "address": "Jl. Letjen S. Parman No.77, RT.6/RW.3",
+      "openState": "Closed ⋅ Opens 8 AM Mon",
+      "phone": "(021) 29675815",
+      "website": "http://www.starbucks.com/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1899551",
+        "longitude": "106.7987151"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f6924ae2d3ef:0x97de4b7e37e0d65!8m2!3d-6.1899551!4d106.7987151!16s%2Fg%2F11by_ww6yn!19sChIJ79PiSpL2aS4RZQ1-47fkfQk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f6924ae2d3ef:0x97de4b7e37e0d65"
+    },
+    {
+      "title": "Starbucks Mall Ciputra",
+      "rating": "4.6",
+      "reviews": "794",
+      "type": "Coffee shop",
+      "address": "Jalan Arteri S Parman Grogol t, RT.11/RW.1",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 5746501",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.168157",
+        "longitude": "106.7869847"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Mall+Ciputra/data=!4m7!3m6!1s0x2e69f659aaaaaabd:0x861fe7ede4adae31!8m2!3d-6.168157!4d106.7869847!16s%2Fg%2F1q5bq3l06!19sChIJvaqqqln2aS4RMa6t5O3nH4Y?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f659aaaaaabd:0x861fe7ede4adae31"
+    },
+    {
+      "title": "Starbucks SOGO",
+      "rating": "4.6",
+      "reviews": "79",
+      "type": "Cafe",
+      "address": "RT.12/RW.6",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 56985749",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1780403",
+        "longitude": "106.790264"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+SOGO/data=!4m7!3m6!1s0x2e69f71215638b97:0x497b8da44634fb01!8m2!3d-6.1780403!4d106.790264!16s%2Fg%2F11gsmx7yh7!19sChIJl4tjFRL3aS4RAfs0RqSNe0k?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f71215638b97:0x497b8da44634fb01"
+    },
+    {
+      "title": "Starbucks Daan Mogot",
+      "rating": "4.6",
+      "reviews": "1,623",
+      "type": "Coffee shop",
+      "address": "Coffee shop",
+      "openState": "Closed ⋅ Opens 7:30 AM",
+      "phone": "(021) 22529823",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1530494",
+        "longitude": "106.7139186"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Daan+Mogot/data=!4m7!3m6!1s0x2e69f81a49b0a445:0xce77723ad367383e!8m2!3d-6.1530494!4d106.7139186!16s%2Fg%2F11g6nsqbbv!19sChIJRaSwSRr4aS4RPjhn0zpyd84?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f81a49b0a445:0xce77723ad367383e"
+    },
+    {
+      "title": "Starbucks Bellezza Shopping Arcade",
+      "rating": "4.5",
+      "reviews": "333",
+      "type": "Coffee shop",
+      "address": "4, Jl. Letnan Jenderal Soepeno No.34, RT.4/RW.2",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 25675757",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.221274",
+        "longitude": "106.7821538"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Bellezza+Shopping+Arcade/data=!4m7!3m6!1s0x2e69f1327f2d2dfb:0x54d8b536889af083!8m2!3d-6.221274!4d106.7821538!16s%2Fg%2F11c20b7y9x!19sChIJ-y0tfzLxaS4Rg_CaiDa12FQ?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1327f2d2dfb:0x54d8b536889af083"
+    },
+    {
+      "title": "Starbucks Tomang Raya",
+      "rating": "4.5",
+      "reviews": "2,438",
+      "type": "Coffee shop",
+      "address": "Jl. Tomang Raya No.25, RT.1/RW.1",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 5660904",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1771635",
+        "longitude": "106.7992846"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Tomang+Raya/data=!4m7!3m6!1s0x2e69f18822ad294b:0x7a28ec3d5c5dee44!8m2!3d-6.1771635!4d106.7992846!16s%2Fg%2F1q6clmq0r!19sChIJSymtIojxaS4RRO5dXD3sKHo?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f18822ad294b:0x7a28ec3d5c5dee44"
+    },
+    {
+      "title": "Starbucks Green Lake City",
+      "rating": "4.9",
+      "reviews": "12",
+      "type": "Coffee shop",
+      "address": "Rukan sentra niaga, Jl. Green Lake City Boulevard",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeaway",
+      "gpsCoordinates": {
+        "latitude": "-6.177543",
+        "longitude": "106.7114369"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Green+Lake+City/data=!4m7!3m6!1s0x2e69f995ade5d26b:0x85d17167975ea52e!8m2!3d-6.177543!4d106.7114369!16s%2Fg%2F11kq6f46gc!19sChIJa9LlrZX5aS4RLqVel2dx0YU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f995ade5d26b:0x85d17167975ea52e"
+    },
+    {
+      "title": "Starbucks Metland Cyber City",
+      "rating": "4.7",
+      "reviews": "554",
+      "type": "Coffee shop",
+      "address": "Jl. Metland",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 59730428",
+      "website": "https://www.starbucks.com/store-locator/store/1030507/dt-metland-cybercity-jalan-metland-boulevard-parung-jaya-tangerang-bt-1",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inDrive-throughNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.197926",
+        "longitude": "106.7040115"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Metland+Cyber+City/data=!4m7!3m6!1s0x2e69f9693c0029c5:0x7ba7bb1303635f4e!8m2!3d-6.197926!4d106.7040115!16s%2Fg%2F11r9nj2tj1!19sChIJxSkAPGn5aS4RTl9jAxO7p3s?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f9693c0029c5:0x7ba7bb1303635f4e"
+    },
+    {
+      "title": "Starbucks Coffee Ruko Taman Palem",
+      "rating": "4.6",
+      "reviews": "149",
+      "type": "Cafe",
+      "address": "Jl. Taman Palem Mutiara Jkt Outer Ring Road No.21A, RT.7/RW.14",
+      "openState": "Closed ⋅ Opens 7:30 AM",
+      "phone": "(021) 54333629",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1371136",
+        "longitude": "106.7310549"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Ruko+Taman+Palem/data=!4m7!3m6!1s0x2e6a1d0399c40d57:0x49040d5d5e307767!8m2!3d-6.1371136!4d106.7310549!16s%2Fg%2F11h8l67jn3!19sChIJVw3EmQMdai4RZ3cwXl0NBEk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e6a1d0399c40d57:0x49040d5d5e307767"
+    },
+    {
+      "title": "Starbucks 1Park",
+      "rating": "4.5",
+      "reviews": "247",
+      "type": "Coffee shop",
+      "address": "RT.1/RW.10",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.245709",
+        "longitude": "106.7884374"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+1Park/data=!4m7!3m6!1s0x2e69f113d8e8616f:0xd1fbe176fafebb52!8m2!3d-6.245709!4d106.7884374!16s%2Fg%2F11cnwdwcj3!19sChIJb2Ho2BPxaS4RUrv--nbh-9E?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f113d8e8616f:0xd1fbe176fafebb52"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.6",
+      "reviews": "2,004",
+      "type": "Coffee shop",
+      "address": "Senayan City Jalan Asia Afrika No.19 1 3, Jl. Asia Afrika No.19, RT.1/RW.3",
+      "openState": "Closed ⋅ Opens 10 AM",
+      "phone": "(021) 72781061",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2272165",
+        "longitude": "106.7977543"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f1486ff59545:0x630b08440a388a47!8m2!3d-6.2272165!4d106.7977543!16s%2Fg%2F1q5bmjx51!19sChIJRZX1b0jxaS4RR4o4CkQIC2M?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1486ff59545:0x630b08440a388a47"
+    },
+    {
+      "title": "Starbucks Coffee - Gandaria City Mall",
+      "rating": "4.6",
+      "reviews": "1,684",
+      "type": "Coffee shop",
+      "address": "Gandaria City Mall Lt. G, Jl. Kyai Haji Moh Syafi Hadzami No. 8, Kebayoran Lama Utara, Kebayoran Lama, RT.10/RW.6",
+      "openState": "Closed ⋅ Opens 8:30 AM",
+      "phone": "(021) 29052921",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2437256",
+        "longitude": "106.7839798"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+-+Gandaria+City+Mall/data=!4m7!3m6!1s0x2e69f1054eb03225:0x981f2ee7c8b9296c!8m2!3d-6.2437256!4d106.7839798!16s%2Fg%2F1tdty5nc!19sChIJJTKwTgXxaS4RbCm5yOcuH5g?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1054eb03225:0x981f2ee7c8b9296c"
+    },
+    {
+      "title": "Starbucks Citywalk Sudirman",
+      "rating": "4.6",
+      "reviews": "708",
+      "type": "Coffee shop",
+      "address": "10, RT.10/RW.11",
+      "openState": "Closed ⋅ Opens 6:30 AM",
+      "phone": "(021) 25556635",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2088451",
+        "longitude": "106.8185722"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Citywalk+Sudirman/data=!4m7!3m6!1s0x2e69f4029e35cd1b:0x6c82b6469ecd5d72!8m2!3d-6.2088451!4d106.8185722!16s%2Fg%2F1tgmmtkj!19sChIJG801ngL0aS4Rcl3Nnka2gmw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f4029e35cd1b:0x6c82b6469ecd5d72"
+    },
+    {
+      "title": "Starbucks Drive Thru Hayam Wuruk",
+      "rating": "4.7",
+      "reviews": "2,481",
+      "type": "Coffee shop",
+      "address": "Hayam Wuruk St No.8, RT.6/RW.2",
+      "openState": "Closed ⋅ Opens 6 AM",
+      "phone": "(021) 3846093",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inDrive-throughNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1648618",
+        "longitude": "106.8205778"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Drive+Thru+Hayam+Wuruk/data=!4m7!3m6!1s0x2e69f5d9d540a1b9:0x609067b151ad74a0!8m2!3d-6.1648618!4d106.8205778!16s%2Fg%2F1hm4mk_39!19sChIJuaFA1dn1aS4RoHStUbFnkGA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f5d9d540a1b9:0x609067b151ad74a0"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.6",
+      "reviews": "725",
+      "type": "Coffee shop",
+      "address": "Starbucks Plaza Indonesia Reserve 1st Floors #160, Jl. M.H. Thamrin",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 39838805",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.193984",
+        "longitude": "106.821738"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f421742da401:0x4c1a044b887601b6!8m2!3d-6.193984!4d106.821738!16s%2Fg%2F1v560wnz!19sChIJAaQtdCH0aS4RtgF2iEsEGkw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f421742da401:0x4c1a044b887601b6"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "3.9",
+      "reviews": "20",
+      "type": "Coffee shop",
+      "address": "JL Jend Sudirman Kav 50, Ground Fl, Kawasan Bisnis Granadhi, RT.10/RW.11",
+      "openState": "Closed ⋅ Opens 7:30 AM",
+      "phone": "(021) 25536404",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2104711",
+        "longitude": "106.8207518"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f154f850208f:0xd1638886cb9170f0!8m2!3d-6.2104711!4d106.8207518!16s%2Fg%2F1thv28jg!19sChIJjyBQ-FTxaS4R8HCRy4aIY9E?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f154f850208f:0xd1638886cb9170f0"
+    },
+    {
+      "title": "Starbucks Bendungan Hilir",
+      "rating": "4.7",
+      "reviews": "889",
+      "type": "Coffee shop",
+      "address": "Jl. Bendungan Hilir No.50, RT.8/RW.1",
+      "openState": "Open ⋅ Closes 2 AM ⋅ Reopens 7 AM",
+      "phone": "(021) 22532365",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2135956",
+        "longitude": "106.8136701"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Bendungan+Hilir/data=!4m7!3m6!1s0x2e69f7f6ee219781:0xe891fc8d30b8f5de!8m2!3d-6.2135956!4d106.8136701!16s%2Fg%2F11h_tcqfcx!19sChIJgZch7vb3aS4R3vW4MI38keg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f7f6ee219781:0xe891fc8d30b8f5de"
+    },
+    {
+      "title": "Starbucks Season City",
+      "rating": "4.6",
+      "reviews": "404",
+      "type": "Coffee shop",
+      "address": "TM Season City Unit GF1, Jl. Prof. Dr. Latumeten No.33, RT.1/RW.5",
+      "openState": "Closed ⋅ Opens 10 AM",
+      "phone": "(021) 22630854",
+      "website": "https://www.starbucks.com/store-locator/store/1018296/season-city-jalan-prof-dr-latumenten-no-33-jakarta-jk-11320-id",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1541861",
+        "longitude": "106.7959932"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Season+City/data=!4m7!3m6!1s0x2e69f615959024df:0x389e2a4a4d567ce0!8m2!3d-6.1541861!4d106.7959932!16s%2Fg%2F11g7z86vl1!19sChIJ3ySQlRX2aS4R4HxWTUoqnjg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f615959024df:0x389e2a4a4d567ce0"
+    },
+    {
+      "title": "Starbucks PIK Elang Laut",
+      "rating": "4.7",
+      "reviews": "928",
+      "type": "Cafe",
+      "address": "Jl. Pantai Indah Selatan No.19, RT.3/RW.3",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 22574427",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1238786",
+        "longitude": "106.7399061"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+PIK+Elang+Laut/data=!4m7!3m6!1s0x2e6a1d39f6f79759:0x1d098e8b291da923!8m2!3d-6.1238786!4d106.7399061!16s%2Fg%2F11g__5cymw!19sChIJWZf39jkdai4RI6kdKYuOCR0?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e6a1d39f6f79759:0x1d098e8b291da923"
+    },
+    {
+      "title": "Starbucks Pacific Place",
+      "rating": "4.5",
+      "reviews": "1,158",
+      "type": "Coffee shop",
+      "address": "Pacific Place Lt. 4, Jalan Jendral Sudirman No.52-53, Senayan, Kebayoran Baru, RT.5/RW.3",
+      "openState": "Closed ⋅ Opens 9 AM",
+      "phone": "(021) 57973565",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.224881",
+        "longitude": "106.8101025"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Pacific+Place/data=!4m7!3m6!1s0x2e69f151873b4099:0x301dcf2890e84db7!8m2!3d-6.224881!4d106.8101025!16s%2Fg%2F1w8g3hr4!19sChIJmUA7h1HxaS4Rt03okCjPHTA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f151873b4099:0x301dcf2890e84db7"
+    },
+    {
+      "title": "Starbucks Gelora Bung Karno",
+      "rating": "4.6",
+      "reviews": "97",
+      "type": "Coffee shop",
+      "address": "QRJ3+388, RT.1/RW.3",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2197574",
+        "longitude": "106.8033066"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Gelora+Bung+Karno/data=!4m7!3m6!1s0x2e69f105c89baa61:0x99e941dbb5dcf36b!8m2!3d-6.2197574!4d106.8033066!16s%2Fg%2F11s1bgdt4w!19sChIJYaqbyAXxaS4Ra_PctdtB6Zk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f105c89baa61:0x99e941dbb5dcf36b"
+    },
+    {
+      "title": "Starbucks Reserve - Pakubuwono",
+      "rating": "4.7",
+      "reviews": "3,723",
+      "type": "Coffee shop",
+      "address": "Jl. Pakubuwono VI No.10, RT.6/RW.6",
+      "openState": "Closed ⋅ Opens 6 AM",
+      "phone": "(021) 7259955",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2328028",
+        "longitude": "106.7959253"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Reserve+-+Pakubuwono/data=!4m7!3m6!1s0x2e69f14737eb9da7:0x1b7eda9a9c26c3e8!8m2!3d-6.2328028!4d106.7959253!16s%2Fg%2F11dfgvtmsw!19sChIJp53rN0fxaS4R6MMmnJrafhs?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f14737eb9da7:0x1b7eda9a9c26c3e8"
+    },
+    {
+      "title": "Starbucks Cideng",
+      "rating": "4.5",
+      "reviews": "2,216",
+      "type": "Coffee shop",
+      "address": "RRF6+VV4, Jl. Cideng Timur, RT.4/RW.6",
+      "openState": "Closed ⋅ Opens 6:30 AM",
+      "phone": "Closed ⋅ Opens 6:30 AM",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1753551",
+        "longitude": "106.8122001"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Cideng/data=!4m7!3m6!1s0x2e69f67e746b0b81:0x2e4e33334ccf3bce!8m2!3d-6.1753551!4d106.8122001!16s%2Fg%2F1ptvx15pf!19sChIJgQtrdH72aS4RzjvPTDMzTi4?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f67e746b0b81:0x2e4e33334ccf3bce"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.6",
+      "reviews": "10",
+      "type": "Coffee shop",
+      "address": "Jl. M H Thamrin Kav 3, Ground Floor, RT.10/RW.20",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "(021) 2302924",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.200252",
+        "longitude": "106.823063"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f41ecf764295:0xb406f6fcd44a6c01!8m2!3d-6.200252!4d106.823063!16s%2Fg%2F11b6gkrg_n!19sChIJlUJ2zx70aS4RAWxK1Pz2BrQ?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f41ecf764295:0xb406f6fcd44a6c01"
+    },
+    {
+      "title": "Starbucks Plaza Sentral",
+      "rating": "4.7",
+      "reviews": "368",
+      "type": "Coffee shop",
+      "address": "Jl. Jend. Sudirman No.47, RT.5/RW.4",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 57904484",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2170051",
+        "longitude": "106.8163619"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Plaza+Sentral/data=!4m7!3m6!1s0x2e69f795a03cd119:0xfa83741c4ec18281!8m2!3d-6.2170051!4d106.8163619!16s%2Fg%2F11h5mb0jwp!19sChIJGdE8oJX3aS4RgYLBThx0g_o?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f795a03cd119:0xfa83741c4ec18281"
+    },
+    {
+      "title": "Starbucks Reserve Senayan City",
+      "rating": "4.2",
+      "reviews": "24",
+      "type": "Coffee shop",
+      "address": "QQCW+QMJ, RT.1/RW.3",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "Closed ⋅ Opens 8 AM",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2280415",
+        "longitude": "106.7966261"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Reserve+Senayan+City/data=!4m7!3m6!1s0x2e69f1afd190a3d9:0xb1eb2716519fef0!8m2!3d-6.2280415!4d106.7966261!16s%2Fg%2F11gppm42zt!19sChIJ2aOQ0a_xaS4R8P4ZZXGyHgs?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1afd190a3d9:0xb1eb2716519fef0"
+    },
+    {
+      "title": "Starbucks Mayapada 2",
+      "rating": "4.4",
+      "reviews": "107",
+      "type": "Coffee shop",
+      "address": "Jl. Jenderal Sudirman No.Kav 27, RW.2",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 2500645",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2132311",
+        "longitude": "106.8201016"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Mayapada+2/data=!4m7!3m6!1s0x2e69f4019a49f69d:0x89c5108e22a9749d!8m2!3d-6.2132311!4d106.8201016!16s%2Fg%2F11c45cw8_l!19sChIJnfZJmgH0aS4RnXSpIo4QxYk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f4019a49f69d:0x89c5108e22a9749d"
+    },
+    {
+      "title": "Starbucks Menara Standard Chartered",
+      "rating": "4.4",
+      "reviews": "65",
+      "type": "Coffee shop",
+      "address": "Menara Standard Chartered, Jl. Prof. DR. Satrio No.164, RT.4/RW.4",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 25532093",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2181697",
+        "longitude": "106.8184659"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Menara+Standard+Chartered/data=!4m7!3m6!1s0x2e69f3fff14701d1:0x2d5ea1a81ecb68c7!8m2!3d-6.2181697!4d106.8184659!16s%2Fg%2F11clydwm32!19sChIJ0QFH8f_zaS4Rx2jLHqihXi0?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3fff14701d1:0x2d5ea1a81ecb68c7"
+    },
+    {
+      "title": "Starbucks Chase Plaza",
+      "rating": "4.1",
+      "reviews": "151",
+      "type": "Coffee shop",
+      "address": "Chase Plaza, Jl. Jenderal Sudirman No.10, RT.10/RW.1",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "Closed ⋅ Opens 6:30 AM Mon",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.210214",
+        "longitude": "106.8218459"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Chase+Plaza/data=!4m7!3m6!1s0x2e69f403a48f8ea1:0x6523eb7461dcf9db!8m2!3d-6.210214!4d106.8218459!16s%2Fg%2F11f1zkx43m!19sChIJoY6PpAP0aS4R2_ncYXTrI2U?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f403a48f8ea1:0x6523eb7461dcf9db"
+    },
+    {
+      "title": "Starbucks Graha Niaga Sudirman",
+      "rating": "4.6",
+      "reviews": "205",
+      "type": "Coffee shop",
+      "address": "5, Jl. Jenderal Sudirman No.Kav 58, RT.5/RW.3",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 52971597",
+      "website": "https://www.starbucks.com/store-locator/store/3382/graha-niaga-lobby-jl-jend-sudirman-kav-58-jakarta-jk-12190-id",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2251621",
+        "longitude": "106.8056746"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Graha+Niaga+Sudirman/data=!4m7!3m6!1s0x2e69f1cfe329bf75:0x64d9f648ec4b841e!8m2!3d-6.2251621!4d106.8056746!16s%2Fg%2F11jgd5kx8f!19sChIJdb8p48_xaS4RHoRL7Ej22WQ?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1cfe329bf75:0x64d9f648ec4b841e"
+    },
+    {
+      "title": "Starbucks Hayam Wuruk Plaza",
+      "rating": "4.6",
+      "reviews": "2,788",
+      "type": "Coffee shop",
+      "address": "Hayam Wuruk Plaza, Jl. Hayam Wuruk No.108, RT.4/RW.9",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 6261438",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1520669",
+        "longitude": "106.8177782"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Hayam+Wuruk+Plaza/data=!4m7!3m6!1s0x2e69f60a08879395:0xb0f9d78d5e1cde93!8m2!3d-6.1520669!4d106.8177782!16s%2Fg%2F1hm3crkw3!19sChIJlZOHCAr2aS4Rk94cXo3X-bA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f60a08879395:0xb0f9d78d5e1cde93"
+    },
+    {
+      "title": "Starbucks Skyline Building",
+      "rating": "4.6",
+      "reviews": "3,920",
+      "type": "Coffee shop",
+      "address": "Jl. M.H. Thamrin No.9, RT.2/RW.1",
+      "openState": "Open ⋅ Closes 12 AM",
+      "phone": "(021) 39833377",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1867174",
+        "longitude": "106.8234991"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Skyline+Building/data=!4m7!3m6!1s0x2e69f428ac0b4447:0x226eec40c5b8add4!8m2!3d-6.1867174!4d106.8234991!16s%2Fg%2F1tcwcdm5!19sChIJR0QLrCj0aS4R1K24xUDsbiI?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f428ac0b4447:0x226eec40c5b8add4"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.8",
+      "reviews": "21",
+      "type": "Cafe",
+      "address": "QQ4X+24Q, RT.6/RW.6",
+      "openState": "Closed ⋅ Opens 10 AM",
+      "phone": "Closed ⋅ Opens 10 AM",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2449215",
+        "longitude": "106.7978483"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f1dc0a7edbb1:0xe8f54546b68410c2!8m2!3d-6.2449215!4d106.7978483!16s%2Fg%2F11j2rjqvyy!19sChIJsdt-CtzxaS4RwhCEtkZF9eg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1dc0a7edbb1:0xe8f54546b68410c2"
+    },
+    {
+      "title": "Starbucks Coffee",
+      "rating": "4.8",
+      "reviews": "13",
+      "type": "Coffee shop",
+      "address": "Jl. Kyai Maja No.43, RT.4/RW.8",
+      "openState": "Closed ⋅ Opens 9 AM Mon",
+      "phone": "(021) 27088109",
+      "website": "https://www.starbucks.com/store-locator/store/1027136/rs-pusat-pertamina-jalan-kyai-maja-no-43-jakarta-jk-12120-id",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2401132",
+        "longitude": "106.7933837"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee/data=!4m7!3m6!1s0x2e69f1d74cad15e1:0x9af3ca00edeee974!8m2!3d-6.2401132!4d106.7933837!16s%2Fg%2F11j1sg37rl!19sChIJ4RWtTNfxaS4RdOnu7QDK85o?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1d74cad15e1:0x9af3ca00edeee974"
+    },
+    {
+      "title": "Starbucks Reserve Senayan",
+      "rating": "4.7",
+      "reviews": "50",
+      "type": "Coffee shop",
+      "address": "Plaza Senayan Mall, RT.1/RW.3",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2244093",
+        "longitude": "106.7987435"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Reserve+Senayan/data=!4m7!3m6!1s0x2e69f1f0fa43e07f:0x9b08704113600471!8m2!3d-6.2244093!4d106.7987435!16s%2Fg%2F11rg9041zw!19sChIJf-BD-vDxaS4RcQRgE0FwCJs?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1f0fa43e07f:0x9b08704113600471"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.5",
+      "reviews": "2,611",
+      "type": "Coffee shop",
+      "address": "JL MH Thamrin No 1 Lower Ground Floor, Sogo Foodhal, RW.5",
+      "openState": "Closed ⋅ Opens 9 AM",
+      "phone": "(021) 23580152",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1948043",
+        "longitude": "106.8195816"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f42066e78fe5:0x3fd2d2e4310b3ac6!8m2!3d-6.1948043!4d106.8195816!16s%2Fg%2F1tfdgrvy!19sChIJ5Y_nZiD0aS4RxjoLMeTS0j8?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f42066e78fe5:0x3fd2d2e4310b3ac6"
+    },
+    {
+      "title": "Starbucks Sampoerna Strategic Tower",
+      "rating": "4.5",
+      "reviews": "36",
+      "type": "Coffee shop",
+      "address": "Sampoerna Strategic Tower A Ground Floors Unit 03, Jl. Jenderal Sudirman, RT.10/RW.3",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 57950727",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2171081",
+        "longitude": "106.8183994"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Sampoerna+Strategic+Tower/data=!4m7!3m6!1s0x2e69f4001c05056b:0xf6871f10c6333748!8m2!3d-6.2171081!4d106.8183994!16s%2Fg%2F1td5tl2c!19sChIJawUFHAD0aS4RSDczxhAfh_Y?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f4001c05056b:0xf6871f10c6333748"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.5",
+      "reviews": "101",
+      "type": "Coffee shop",
+      "address": "Sinarmas Land Plaza, Tower II, Jl. M.H. Thamrin No.51, RT.9/RW.4",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "(021) 31990336",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1900899",
+        "longitude": "106.8234796"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f42427843efd:0xd834c1ab7dda1325!8m2!3d-6.1900899!4d106.8234796!16s%2Fg%2F1q66qgvqx!19sChIJ_T6EJyT0aS4RJRPafavBNNg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f42427843efd:0xd834c1ab7dda1325"
+    },
+    {
+      "title": "Starbucks Green Central City",
+      "rating": "4.6",
+      "reviews": "479",
+      "type": "Coffee shop",
+      "address": "1, Green Central City, Jl. Gajah Mada No.188, RW.6",
+      "openState": "Closed ⋅ Opens 7:30 AM",
+      "phone": "(021) 6320018",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1471431",
+        "longitude": "106.8156581"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Green+Central+City/data=!4m7!3m6!1s0x2e69f7d43e3c642b:0x9d187f2eebd307b5!8m2!3d-6.1471431!4d106.8156581!16s%2Fg%2F11f5v0tmy5!19sChIJK2Q8PtT3aS4RtQfT6y5_GJ0?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f7d43e3c642b:0x9d187f2eebd307b5"
+    },
+    {
+      "title": "Starbucks TCC Batavia",
+      "rating": "4.4",
+      "reviews": "48",
+      "type": "Coffee shop",
+      "address": "Jl. K.H. Mas Mansyur No.126",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 29678250",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2109067",
+        "longitude": "106.8160505"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+TCC+Batavia/data=!4m7!3m6!1s0x2e69f6a9c0e350c7:0x7ed7a182a95e21e9!8m2!3d-6.2109067!4d106.8160505!16s%2Fg%2F11g7_jfv94!19sChIJx1DjwKn2aS4R6SFeqYKh134?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f6a9c0e350c7:0x7ed7a182a95e21e9"
+    },
+    {
+      "title": "Starbucks Plaza Indonesia Lv 4",
+      "rating": "4.9",
+      "reviews": "270",
+      "type": "Coffee shop",
+      "address": "M.H., Jl. K.H. Wahid Hasyim No.15, RT.7/RW.5",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 29924021",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1925406",
+        "longitude": "106.8219358"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Plaza+Indonesia+Lv+4/data=!4m7!3m6!1s0x2e69f42139f2b399:0x7ee7c2010ad90566!8m2!3d-6.1925406!4d106.8219358!16s%2Fg%2F11g9s_q0qh!19sChIJmbPyOSH0aS4RZgXZCgHC534?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f42139f2b399:0x7ee7c2010ad90566"
+    },
+    {
+      "title": "Starbucks Sahid Sudirman Center",
+      "rating": "4.5",
+      "reviews": "76",
+      "type": "Coffee shop",
+      "address": "Unnamed Road, RT.10/RW.11",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "(021) 27889047",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2107257",
+        "longitude": "106.8188018"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Sahid+Sudirman+Center/data=!4m7!3m6!1s0x2e69f5da4f6413ff:0x5eb857646068de35!8m2!3d-6.2107257!4d106.8188018!16s%2Fg%2F11f770v3wg!19sChIJ_xNkT9r1aS4RNd5oYGRXuF4?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f5da4f6413ff:0x5eb857646068de35"
+    },
+    {
+      "title": "Starbucks Sabang",
+      "rating": "4.7",
+      "reviews": "518",
+      "type": "Coffee shop",
+      "address": "Jl. H. Agus Salim No.19, RW.1",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 21236571",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1833937",
+        "longitude": "106.8248747"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Sabang/data=!4m7!3m6!1s0x2e69f5a5c844fe2b:0x2fa6d68e42f0ee79!8m2!3d-6.1833937!4d106.8248747!16s%2Fg%2F11rgplx52g!19sChIJK_5EyKX1aS4Ree7wQo7Wpi8?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f5a5c844fe2b:0x2fa6d68e42f0ee79"
+    },
+    {
+      "title": "Starbucks World Trade Center 2",
+      "rating": "4.3",
+      "reviews": "55",
+      "type": "Coffee shop",
+      "address": "Gedung World Trade Center II, Lower Ground, Jl. Jenderal Sudirman Kav. 29-31, RT.8/RW.3",
+      "openState": "Closed ⋅ Opens 7:30 AM Mon",
+      "phone": "(021) 29522490",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2162186",
+        "longitude": "106.8204805"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+World+Trade+Center+2/data=!4m7!3m6!1s0x2e69f400f01f1815:0x294b6cb0ffd18398!8m2!3d-6.2162186!4d106.8204805!16s%2Fg%2F1yg577_9v!19sChIJFRgf8AD0aS4RmIPR_7BsSyk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f400f01f1815:0x294b6cb0ffd18398"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.5",
+      "reviews": "676",
+      "type": "Coffee shop",
+      "address": "JL Melawai Raya 189 B Ground Floor 3, RT.3/RW.1",
+      "openState": "Closed ⋅ Opens 9 AM",
+      "phone": "(021) 7202225",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2443389",
+        "longitude": "106.803561"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f16ed5fcea87:0xae01e2c275e3be2b!8m2!3d-6.2443389!4d106.803561!16s%2Fg%2F1tjd1vfx!19sChIJh-r81W7xaS4RK77jdcLiAa4?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f16ed5fcea87:0xae01e2c275e3be2b"
+    },
+    {
+      "title": "Starbucks EPM",
+      "rating": "4.7",
+      "reviews": "1,033",
+      "type": "Coffee shop",
+      "address": "Jl. Pluit Raya, RT.23/RW.8",
+      "openState": "Closed ⋅ Opens 11 AM",
+      "phone": "(021) 66676595",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1274469",
+        "longitude": "106.7910878"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+EPM/data=!4m7!3m6!1s0x2e6a1d8d82cbf543:0x72351ee3374163ce!8m2!3d-6.1274469!4d106.7910878!16s%2Fg%2F11bwcqtyg7!19sChIJQ_XLgo0dai4RzmNBN-MeNXI?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e6a1d8d82cbf543:0x72351ee3374163ce"
+    },
+    {
+      "title": "Starbucks Coffee Lotte Shopping Avenue 2",
+      "rating": "4.5",
+      "reviews": "793",
+      "type": "Cafe",
+      "address": "Jl. Prof. DR. Satrio No.18, RT.18/RW.4",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 29888911",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2238944",
+        "longitude": "106.8226132"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Lotte+Shopping+Avenue+2/data=!4m7!3m6!1s0x2e69f3fb87b01f47:0x32dba1f5f105231b!8m2!3d-6.2238944!4d106.8226132!16s%2Fg%2F1ygjd0l1b!19sChIJRx-wh_vzaS4RGyMF8fWh2zI?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3fb87b01f47:0x32dba1f5f105231b"
+    },
+    {
+      "title": "Starbucks MRT Bundaran HI",
+      "rating": "4.7",
+      "reviews": "34",
+      "type": "Coffee shop",
+      "address": "Jl. M.H. Thamrin No.51-55, RT.9/RW.5",
+      "openState": "Closed ⋅ Opens 7:30 AM",
+      "phone": "(021) 5746501",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1911769",
+        "longitude": "106.8228185"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+MRT+Bundaran+HI/data=!4m7!3m6!1s0x2e69f54ed861a7dd:0x838a781f93bbff65!8m2!3d-6.1911769!4d106.8228185!16s%2Fg%2F11h7kvk7q2!19sChIJ3adh2E71aS4RZf-7kx94ioM?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f54ed861a7dd:0x838a781f93bbff65"
+    },
+    {
+      "title": "Starbucks UOB Plaza",
+      "rating": "4.6",
+      "reviews": "166",
+      "type": "Coffee shop",
+      "address": "UOB Plaza Lantai Lobby, Jl. MH Thamrin No.10, RT.14/RW.20",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 31905981",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1990731",
+        "longitude": "106.8225181"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+UOB+Plaza/data=!4m7!3m6!1s0x2e69f41f46dfd6d1:0x33e8682f1c0a987a!8m2!3d-6.1990731!4d106.8225181!16s%2Fg%2F11bc7plpd0!19sChIJ0dbfRh_0aS4RepgKHC9o6DM?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f41f46dfd6d1:0x33e8682f1c0a987a"
+    },
+    {
+      "title": "Starbucks Kartika Chandra",
+      "rating": "4.7",
+      "reviews": "420",
+      "type": "Coffee shop",
+      "address": "Jl. Gatot Subroto No.Kav 18-20, RT.3/RW.2",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 5264087",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.228222",
+        "longitude": "106.8196188"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Kartika+Chandra/data=!4m7!3m6!1s0x2e69f3102f7be4b3:0xb1aabbbd5321d6e8!8m2!3d-6.228222!4d106.8196188!16s%2Fg%2F11gsmmpwwy!19sChIJs-R7LxDzaS4R6NYhU727qrE?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3102f7be4b3:0xb1aabbbd5321d6e8"
+    },
+    {
+      "title": "Starbucks FX Sudirman",
+      "rating": "4.5",
+      "reviews": "1,682",
+      "type": "Coffee shop",
+      "address": "FX Sudirman Lantai 1, Jl. Jenderal Sudirman, RT.1/RW.3",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 25554637",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2248783",
+        "longitude": "106.8037567"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+FX+Sudirman/data=!4m7!3m6!1s0x2e69f6b300000019:0xb0392291f2fc7177!8m2!3d-6.2248783!4d106.8037567!16s%2Fg%2F1q5bq5b5c!19sChIJGQAAALP2aS4Rd3H88pEiObA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f6b300000019:0xb0392291f2fc7177"
+    },
+    {
+      "title": "Starbucks Wijaya",
+      "rating": "4.7",
+      "reviews": "599",
+      "type": "Coffee shop",
+      "address": "QR35+V64, Jl. Wijaya I, RT.10/RW.1",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2453531",
+        "longitude": "106.8080661"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Wijaya/data=!4m7!3m6!1s0x2e69f1ddcc0702a1:0xdcfca07d0daa94d2!8m2!3d-6.2453531!4d106.8080661!16s%2Fg%2F11fwxjvd6k!19sChIJoQIHzN3xaS4R0pSqDX2g_Nw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1ddcc0702a1:0xdcfca07d0daa94d2"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.6",
+      "reviews": "193",
+      "type": "Coffee shop",
+      "address": "The East, Lantai 1, Lingkar Mega Kuningan No.1, RT.5/RW.2",
+      "openState": "Closed ⋅ Opens 8 AM Mon",
+      "phone": "(021) 29027223",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2293337",
+        "longitude": "106.8251159"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f3e492960e81:0xdb2e04b692ee337e!8m2!3d-6.2293337!4d106.8251159!16s%2Fg%2F1yg4fc_m3!19sChIJgQ6WkuTzaS4RfjPukrYELts?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3e492960e81:0xdb2e04b692ee337e"
+    },
+    {
+      "title": "Starbucks Citra 6",
+      "rating": "4.6",
+      "reviews": "1,535",
+      "type": "Coffee shop",
+      "address": "Apartemen Citralake Suites, Jl. Citra Garden City 6 Boulevard No.5, RT.4/RW.5",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 22558095",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1273123",
+        "longitude": "106.7126827"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Citra+6/data=!4m7!3m6!1s0x2e6a02ae2df9e843:0xf09c8013807a0d57!8m2!3d-6.1273123!4d106.7126827!16s%2Fg%2F11bt_grv4d!19sChIJQ-j5La4Cai4RVw16gBOAnPA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e6a02ae2df9e843:0xf09c8013807a0d57"
+    },
+    {
+      "title": "Starbucks Intiland Tower",
+      "rating": "4.6",
+      "reviews": "25",
+      "type": "Coffee shop",
+      "address": "Jl. Jenderal Sudirman No.32, RT.3/RW.2",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 57904877",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2142905",
+        "longitude": "106.8174512"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Intiland+Tower/data=!4m7!3m6!1s0x2e69f511234eaf2f:0xcce19b862aee794f!8m2!3d-6.2142905!4d106.8174512!16s%2Fg%2F11h4x97gc_!19sChIJL69OIxH1aS4RT3nuKoab4cw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f511234eaf2f:0xcce19b862aee794f"
+    },
+    {
+      "title": "Starbuck’s Sarana Jaya",
+      "rating": "4.9",
+      "reviews": "16",
+      "type": "Coffee shop",
+      "address": "RRC9+6R8, RT.2/RW.3",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "Closed ⋅ Opens 7 AM Mon",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayDelivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1794585",
+        "longitude": "106.8195865"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbuck%E2%80%99s+Sarana+Jaya/data=!4m7!3m6!1s0x2e69f5744c709b93:0x145501e145a48922!8m2!3d-6.1794585!4d106.8195865!16s%2Fg%2F11j96qmkj9!19sChIJk5twTHT1aS4RIomkReEBVRQ?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f5744c709b93:0x145501e145a48922"
+    },
+    {
+      "title": "Starbucks Glodok Pancoran",
+      "rating": "4.6",
+      "reviews": "406",
+      "type": "Coffee shop",
+      "address": "RT.7/RW.1, Jl. Pancoran No.56, RT.2/RW.6",
+      "openState": "Closed ⋅ Opens 6:30 AM",
+      "phone": "0821-1277-1471",
+      "website": "https://www.starbucks.com/store-locator/store/1024459/glodok-chinatown-jalan-pancoran-kota-tua-pinangsia-jakarta-jk-11110",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1409092",
+        "longitude": "106.8130826"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Glodok+Pancoran/data=!4m7!3m6!1s0x2e69f7489d53ac09:0x92143ef9adc2a4a7!8m2!3d-6.1409092!4d106.8130826!16s%2Fg%2F11g_yjy070!19sChIJCaxTnUj3aS4Rp6TCrfk-FJI?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f7489d53ac09:0x92143ef9adc2a4a7"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.4",
+      "reviews": "176",
+      "type": "Coffee shop",
+      "address": "Wisma Metropolitan 1 Lantai GF, Jl. Jend. Sudirman Kav.29, Karet, Setiabudi, RT.8/RW.3",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "(021) 5712220",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2141897",
+        "longitude": "106.8198528"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f401b6e07c45:0x6fee8853fb93eec8!8m2!3d-6.2141897!4d106.8198528!16s%2Fg%2F11b6_6tx01!19sChIJRXzgtgH0aS4RyO6T-1OI7m8?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f401b6e07c45:0x6fee8853fb93eec8"
+    },
+    {
+      "title": "Starbucks Reserve SOGO Level 5 Plaza Senayan",
+      "rating": "4.3",
+      "reviews": "6",
+      "type": "Cafe",
+      "address": "Jl. Asia Afrika, RT.1/RW.3",
+      "openState": "Closed ⋅ Opens 10 AM",
+      "phone": "(021) 57900254",
+      "website": "https://www.starbucks.com/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeaway",
+      "gpsCoordinates": {
+        "latitude": "-6.2245398",
+        "longitude": "106.7989065"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Reserve+SOGO+Level+5+Plaza+Senayan/data=!4m7!3m6!1s0x2e69f18c3eee13ff:0x6cb33acc6addeb6f!8m2!3d-6.2245398!4d106.7989065!16s%2Fg%2F11kb1v5m44!19sChIJ_xPuPozxaS4Rb-vdasw6s2w?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f18c3eee13ff:0x6cb33acc6addeb6f"
+    },
+    {
+      "title": "Starbucks Wolter Monginsidi",
+      "rating": "4.6",
+      "reviews": "78",
+      "type": "Coffee shop",
+      "address": "Jl. Wolter Monginsidi No.65, RW.4",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2388099",
+        "longitude": "106.8115119"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Wolter+Monginsidi/data=!4m7!3m6!1s0x2e69f19cdc0da70f:0x3893f812c825d36c!8m2!3d-6.2388099!4d106.8115119!16s%2Fg%2F11sfbd31gy!19sChIJD6cN3JzxaS4RbNMlyBL4kzg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f19cdc0da70f:0x3893f812c825d36c"
+    },
+    {
+      "title": "Starbucks Greenville",
+      "rating": "3.8",
+      "reviews": "11",
+      "type": "Coffee shop",
+      "address": "Jl. Green Ville Raya, Blk. K No.3, RT.8/RW.14",
+      "serviceOptions": "Dine-inTakeaway",
+      "gpsCoordinates": {
+        "latitude": "-6.169428",
+        "longitude": "106.7737748"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Greenville/data=!4m7!3m6!1s0x2e69f76b6c1774a5:0x9f2e1862476fd125!8m2!3d-6.169428!4d106.7737748!16s%2Fg%2F11v0cg_rz2!19sChIJpXQXbGv3aS4RJdFvR2IYLp8?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f76b6c1774a5:0x9f2e1862476fd125"
+    },
+    {
+      "title": "STARBUCKS CITRA 7",
+      "rating": "4.7",
+      "reviews": "49",
+      "type": "Coffee shop",
+      "address": "Jl. Citra 7 No.7, RW.11",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1467301",
+        "longitude": "106.7011603"
+      },
+      "placeUrl": "https://www.google.com/maps/place/STARBUCKS+CITRA+7/data=!4m7!3m6!1s0x2e69f9dd166598c7:0x2f265a812e16d433!8m2!3d-6.1467301!4d106.7011603!16s%2Fg%2F11k4lwyn9z!19sChIJx5hlFt35aS4RM9QWLoFaJi8?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f9dd166598c7:0x2f265a812e16d433"
+    },
+    {
+      "title": "Starbucks Satrio Tower",
+      "rating": "4.0",
+      "reviews": "13",
+      "type": "Coffee shop",
+      "address": "Jl. Prof. DR. Satrio No.7, RW.2",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 25199437",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inKerbside pickupNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2252755",
+        "longitude": "106.8283158"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Satrio+Tower/data=!4m7!3m6!1s0x2e69f35df0ff8ed3:0x957a4a52a9eacc99!8m2!3d-6.2252755!4d106.8283158!16s%2Fg%2F11h84b22qk!19sChIJ047_8F3zaS4RmczqqVJKepU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f35df0ff8ed3:0x957a4a52a9eacc99"
+    },
+    {
+      "title": "Starbucks Reserve Menara Astra",
+      "rating": "4.7",
+      "reviews": "205",
+      "type": "Coffee shop",
+      "address": "3rd floor Menara Astra, Jl. Jenderal Sudirman No.10, RW.11",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 50821983",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2071835",
+        "longitude": "106.8213389"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Reserve+Menara+Astra/data=!4m7!3m6!1s0x2e69f53da02a61d7:0xbbeebfa2adab4af7!8m2!3d-6.2071835!4d106.8213389!16s%2Fg%2F11h1rxr4z2!19sChIJ12EqoD31aS4R90qrraK_7rs?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f53da02a61d7:0xbbeebfa2adab4af7"
+    },
+    {
+      "title": "Starbucks La Maison",
+      "rating": "4.6",
+      "reviews": "278",
+      "type": "Coffee shop",
+      "address": "QQ3V+FMV, Jl. Gandaria Tengah III, RT.4/RW.4",
+      "openState": "Closed ⋅ Opens 9 AM",
+      "phone": "(021) 80658186",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2462725",
+        "longitude": "106.7941589"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+La+Maison/data=!4m7!3m6!1s0x2e69f1132b82fd69:0x2cc704ea012c3494!8m2!3d-6.2462725!4d106.7941589!16s%2Fg%2F11f7cvv7bw!19sChIJaf2CKxPxaS4RlDQsAeoExyw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1132b82fd69:0x2cc704ea012c3494"
+    },
+    {
+      "title": "Starbucks Oakwood Premier Cozmo",
+      "rating": "4.6",
+      "reviews": "568",
+      "type": "Coffee shop",
+      "address": "JL Mega Kuningan Kav 68 Ground Floor Jakarta JK, RT.5/RW.2",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 25542457",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2277766",
+        "longitude": "106.8256638"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Oakwood+Premier+Cozmo/data=!4m7!3m6!1s0x2e69f3e4cb3a857b:0x261d32ba32294f9e!8m2!3d-6.2277766!4d106.8256638!16s%2Fg%2F1tf5yqh5!19sChIJe4U6y-TzaS4Rnk8pMroyHSY?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3e4cb3a857b:0x261d32ba32294f9e"
+    },
+    {
+      "title": "Starbucks Telkom Landmark Tower",
+      "rating": "4.5",
+      "reviews": "380",
+      "type": "Coffee shop",
+      "address": "Telkom Landmark Tower, The Telkom Hub, Jl. Gatot Subroto No.Kav. 52, RT.6/RW.1",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "(021) 27519365",
+      "website": "https://www.starbucks.com/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2307973",
+        "longitude": "106.8178166"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Telkom+Landmark+Tower/data=!4m7!3m6!1s0x2e69f158829c876f:0x8ada3eaf64e055c6!8m2!3d-6.2307973!4d106.8178166!16s%2Fg%2F11dd__1dsk!19sChIJb4ecgljxaS4RxlXgZK8-2oo?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f158829c876f:0x8ada3eaf64e055c6"
+    },
+    {
+      "title": "Starbucks Tata Puri",
+      "rating": "4.7",
+      "reviews": "205",
+      "type": "Coffee shop",
+      "address": "10, Jl. Tanjung Karang No.3, RT.10/RW.20",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 3148322",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2005511",
+        "longitude": "106.8223567"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Tata+Puri/data=!4m7!3m6!1s0x2e69f556fe2e3cf1:0xad1aa1867d941713!8m2!3d-6.2005511!4d106.8223567!16s%2Fg%2F11jfq2jn3z!19sChIJ8Twu_lb1aS4RExeUfYahGq0?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f556fe2e3cf1:0xad1aa1867d941713"
+    },
+    {
+      "title": "Starbucks d'Prima Hotel Melawai",
+      "rating": "4.5",
+      "reviews": "660",
+      "type": "Coffee shop",
+      "address": "Jl. Melawai 9 No.2, RT.3/RW.1",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 71113343",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2453926",
+        "longitude": "106.7990103"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+d%27Prima+Hotel+Melawai/data=!4m7!3m6!1s0x2e69f16c39199139:0xcc37382fc6116b2a!8m2!3d-6.2453926!4d106.7990103!16s%2Fg%2F1pzsxyhs_!19sChIJOZEZOWzxaS4RKmsRxi84N8w?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f16c39199139:0xcc37382fc6116b2a"
+    },
+    {
+      "title": "Starbucks pecenongan",
+      "rating": "4.6",
+      "reviews": "55",
+      "type": "Coffee shop",
+      "address": "RRPG+HPC, Pecenongan St",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "Closed ⋅ Opens 7 AM",
+      "website": "https://www.starbucks.com/store-locator/store/1032936/pecenongan-jakarta-jalan-mangga-besar-raya-kecamatan-taman-sari-jk-10",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1635683",
+        "longitude": "106.8267666"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+pecenongan/data=!4m7!3m6!1s0x2e69f527d80802b3:0x239f17e128cf1032!8m2!3d-6.1635683!4d106.8267666!16s%2Fg%2F11t47cns1x!19sChIJswII2Cf1aS4RMhDPKOEXnyM?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f527d80802b3:0x239f17e128cf1032"
+    },
+    {
+      "title": "Starbucks Menara Thamrin",
+      "rating": "4.8",
+      "reviews": "9",
+      "type": "Restaurant",
+      "address": "RR7C+MRM, RW.10",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 2302495",
+      "website": "https://www.starbucks.com/store-locator/store/94725/menara-thamrin-jl-m-h-thamrin-kav-3-jakarta-jk-10250-id",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1857835",
+        "longitude": "106.8220448"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Menara+Thamrin/data=!4m7!3m6!1s0x2e69f526da5abeb1:0xe5dce7aa0a1155c6!8m2!3d-6.1857835!4d106.8220448!16s%2Fg%2F11j4str0n_!19sChIJsb5a2ib1aS4RxlURCqrn3OU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f526da5abeb1:0xe5dce7aa0a1155c6"
+    },
+    {
+      "title": "Starbucks BEJ",
+      "rating": "4.1",
+      "reviews": "14",
+      "type": "Coffee shop",
+      "address": "Jl. Jenderal Sudirman",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "Closed ⋅ Opens 6:30 AM Mon",
+      "website": "https://www.starbucks.com/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeaway",
+      "gpsCoordinates": {
+        "latitude": "-6.223906",
+        "longitude": "106.80875"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+BEJ/data=!4m7!3m6!1s0x2e69f15184d015a1:0x35aed708b63f747b!8m2!3d-6.223906!4d106.80875!16s%2Fg%2F11dxf1bv16!19sChIJoRXQhFHxaS4Re3Q_tgjXrjU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f15184d015a1:0x35aed708b63f747b"
+    },
+    {
+      "title": "Starbucks Coffee - Patra Jasa Office Tower",
+      "rating": "4.6",
+      "reviews": "276",
+      "type": "Coffee shop",
+      "address": "Patra Jasa Office Tower, Gedung, Jl. Gatot Subroto No.Kav. 32-34, RT.6/RW.3",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "Closed ⋅ Opens 7 AM Mon",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2338049",
+        "longitude": "106.8235367"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+-+Patra+Jasa+Office+Tower/data=!4m7!3m6!1s0x2e69f3e14c6957c9:0xa34fba2eda954a5e!8m2!3d-6.2338049!4d106.8235367!16s%2Fg%2F11c1n19krl!19sChIJyVdpTOHzaS4RXkqV2i66T6M?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3e14c6957c9:0xa34fba2eda954a5e"
+    },
+    {
+      "title": "Starbucks Community Store Tanah Abang",
+      "rating": "4.8",
+      "reviews": "240",
+      "type": "Coffee shop",
+      "address": "No. 36 Ruko No. 1, Jl. Ps. Tanah Abang Blok B",
+      "openState": "Closed ⋅ Opens 8 AM Mon",
+      "phone": "(021) 22394253",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1848733",
+        "longitude": "106.8143169"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Community+Store+Tanah+Abang/data=!4m7!3m6!1s0x2e69f737227c694d:0xefffe3dde4fb2ff9!8m2!3d-6.1848733!4d106.8143169!16s%2Fg%2F11j7yjn78k!19sChIJTWl8Ijf3aS4R-S_75N3j_-8?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f737227c694d:0xefffe3dde4fb2ff9"
+    },
+    {
+      "title": "Starbucks Tokopedia Tower",
+      "rating": "4.6",
+      "reviews": "98",
+      "type": "Coffee shop",
+      "address": "RT.3/RW.3 Karet Semanggi, Setiabudi, Jl. Prof. DR. Satrio No.Kav 11, RT.3/RW.3",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 25982785",
+      "website": "https://www.starbucks.com/store-locator/store/1021087/tokopedia-tower-jl-prof-satrio-kav-11-rt-3-rw-3-jakarta-jk-12930-i",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2213698",
+        "longitude": "106.8193664"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Tokopedia+Tower/data=!4m7!3m6!1s0x2e69f3fe72702d05:0xc5341163f155707c!8m2!3d-6.2213698!4d106.8193664!16s%2Fg%2F11f401srt5!19sChIJBS1wcv7zaS4RfHBV8WMRNMU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3fe72702d05:0xc5341163f155707c"
+    },
+    {
+      "title": "Starbucks Indonesia",
+      "rating": "4.2",
+      "reviews": "54",
+      "type": "Corporate office",
+      "address": "Sahid Sudirman Center 27th Floor, Jl. Jenderal Sudirman No.Kav. 86, RT.10/RW.11",
+      "openState": "Closed ⋅ Opens 8 AM Mon",
+      "phone": "(021) 5746501",
+      "website": "http://www.starbucks.co.id/customer-service/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "",
+      "gpsCoordinates": {
+        "latitude": "-6.2108278",
+        "longitude": "106.8187024"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Indonesia/data=!4m7!3m6!1s0x2e69f41d00000001:0xfb1c009977f5ecb9!8m2!3d-6.2108278!4d106.8187024!16s%2Fg%2F11cs319bz3!19sChIJAQAAAB30aS4Ruez1d5kAHPs?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f41d00000001:0xfb1c009977f5ecb9"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.0",
+      "reviews": "1",
+      "type": "Cafe",
+      "address": "QRF5+PWF, Senayan city, south lobby, RT.5/RW.3",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Closed ⋅ Opens 10 AM",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2256994",
+        "longitude": "106.8097929"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f194ccdfe61f:0xe7f48e88782ae075!8m2!3d-6.2256994!4d106.8097929!16s%2Fg%2F11k3408ywk!19sChIJH-bfzJTxaS4RdeAqeIiO9Oc?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f194ccdfe61f:0xe7f48e88782ae075"
+    },
+    {
+      "title": "Wisma BNI46 Starbucks lobby",
+      "rating": "4.7",
+      "reviews": "424",
+      "type": "Cafe",
+      "address": "Raya No, Jl. R.M Margono Djojohadikoesoemo No.10, RT.10/RW.11",
+      "openState": "Closed ⋅ Opens 10 AM",
+      "phone": "Closed ⋅ Opens 10 AM",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2033141",
+        "longitude": "106.8198498"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Wisma+BNI46+Starbucks+lobby/data=!4m7!3m6!1s0x2e69f56d6f27d46f:0xc6328bf4a3e14e5f!8m2!3d-6.2033141!4d106.8198498!16s%2Fg%2F11h2hhm6bj!19sChIJb9Qnb231aS4RX07ho_SLMsY?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f56d6f27d46f:0xc6328bf4a3e14e5f"
+    },
+    {
+      "title": "Starbucks Green Sedayu Mall",
+      "rating": "4.7",
+      "reviews": "29",
+      "type": "Coffee shop",
+      "address": "Jl. Taman Palem Lestari No.10",
+      "website": "https://starbucks-green-sedayu-mall.business.site/?utm_source=gmb&utm_medium=referral",
+      "description": "Closed ⋅ Opens 10 AM  (021) 40127020",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.139198",
+        "longitude": "106.728546"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Green+Sedayu+Mall/data=!4m7!3m6!1s0x2e69f7e32cd00d2d:0x72f344e5833f17b7!8m2!3d-6.139198!4d106.728546!16s%2Fg%2F11k6ws0zm6!19sChIJLQ3QLOP3aS4Rtxc_g-VE83I?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f7e32cd00d2d:0x72f344e5833f17b7"
+    },
+    {
+      "title": "Starbucks Plaza Menteng",
+      "rating": "4.6",
+      "reviews": "329",
+      "type": "Coffee shop",
+      "address": "Jl. HOS. Cokroaminoto No.79, RT.3/RW.4",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 3907610",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.196765",
+        "longitude": "106.8288909"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Plaza+Menteng/data=!4m7!3m6!1s0x2e69f421eb89c047:0x8d5298d185b6ce00!8m2!3d-6.196765!4d106.8288909!16s%2Fg%2F1td0q99c!19sChIJR8CJ6yH0aS4RAM62hdGYUo0?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f421eb89c047:0x8d5298d185b6ce00"
+    },
+    {
+      "title": "Starbucks Pasaraya Grande",
+      "rating": "4.5",
+      "reviews": "69",
+      "type": "Coffee shop",
+      "address": "Pasaraya Grande, Jl. Sultan Iskandarsyah No. 2, Melawai, Kebayoran Baru, RT.3/RW.1, RT.3/RW.1",
+      "website": "https://stories.starbucks.com/stories/2019/top-9-things-to-know-about-starbucks-dewata-coffee-sanctuary/",
+      "description": "Closed ⋅ Opens 9 AM  (021) 72780510",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2441715",
+        "longitude": "106.8029853"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Pasaraya+Grande/data=!4m7!3m6!1s0x2e69f1e46b1b031b:0x1044b4fcb85a7fce!8m2!3d-6.2441715!4d106.8029853!16s%2Fg%2F11h3bncfq5!19sChIJGwMba-TxaS4Rzn9auPy0RBA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1e46b1b031b:0x1044b4fcb85a7fce"
+    },
+    {
+      "title": "Starbucks Reserve (Gandaria City)",
+      "rating": "4.8",
+      "reviews": "151",
+      "type": "Coffee shop",
+      "address": "Gandaria City, Lantai GF, Jl. Arteri Pd. Indah No.22-23, RT.10/RW.6",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Closed ⋅ Opens 9 AM  (021) 29053295",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.243938",
+        "longitude": "106.7831172"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Reserve+%28Gandaria+City%29/data=!4m7!3m6!1s0x2e69f12cadab3b33:0x2908437225334481!8m2!3d-6.243938!4d106.7831172!16s%2Fg%2F11q2xcdt0y!19sChIJMzurrSzxaS4RgUQzJXJDCCk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f12cadab3b33:0x2908437225334481"
+    },
+    {
+      "title": "Starbucks Kreo Ciledug",
+      "rating": "4.5",
+      "reviews": "50",
+      "type": "Coffee shop",
+      "address": "QP7V+9Q9, RW.002",
+      "description": "Closed ⋅ Opens 7 AM  (021) 73493007",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2365721",
+        "longitude": "106.7444801"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Kreo+Ciledug/data=!4m7!3m6!1s0x2e69f1e6337ef059:0xc9758b3873b1866a!8m2!3d-6.2365721!4d106.7444801!16s%2Fg%2F11ts34pcgs!19sChIJWfB-M-bxaS4RaoaxcziLdck?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1e6337ef059:0xc9758b3873b1866a"
+    },
+    {
+      "title": "Starbucks RS Husada",
+      "rating": "4.6",
+      "reviews": "317",
+      "type": "Coffee shop",
+      "address": "Jl. Raya Mangga Besar No.1, RW.1",
+      "openState": "Closed ⋅ Opens 7 AM Mon",
+      "phone": "(021) 6240682",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.147579",
+        "longitude": "106.8289051"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+RS+Husada/data=!4m7!3m6!1s0x2e69f5a9c9aee655:0x6c8767af9578408f!8m2!3d-6.147579!4d106.8289051!16s%2Fg%2F11gn1vbkyj!19sChIJVeauyan1aS4Rj0B4la9nh2w?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f5a9c9aee655:0x6c8767af9578408f"
+    },
+    {
+      "title": "Starbucks Coffee Tempo Scan Tower",
+      "rating": "4.5",
+      "reviews": "314",
+      "type": "Coffee shop",
+      "address": "Tempo Scan Tower, Ground Floor, Jl. H. R. Rasuna Said, RT.5/RW.4",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "(021) 29201505",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2353147",
+        "longitude": "106.8289956"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+Tempo+Scan+Tower/data=!4m7!3m6!1s0x2e69f3e7d2168cab:0xe506cf49a89d721b!8m2!3d-6.2353147!4d106.8289956!16s%2Fg%2F1yfjqxqly!19sChIJq4wW0ufzaS4RG3KdqEnPBuU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3e7d2168cab:0xe506cf49a89d721b"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.5",
+      "reviews": "2,673",
+      "type": "Coffee shop",
+      "address": "Rest Area KM 13,5, Jakarta-Tangerang Toll Rd, RT.001/RW.007",
+      "openState": "Closed ⋅ Opens 6 AM",
+      "phone": "(021) 73446205",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inDrive-throughNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2138165",
+        "longitude": "106.6832789"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f08d1319c8d3:0xea25b4ab67bb26e1!8m2!3d-6.2138165!4d106.6832789!16s%2Fg%2F1tl5cn32!19sChIJ08gZE43waS4R4Sa7Z6u0Jeo?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f08d1319c8d3:0xea25b4ab67bb26e1"
+    },
+    {
+      "title": "Starbucks Reserve Senayan City",
+      "rating": "5.0",
+      "reviews": "2",
+      "type": "Coffee shop",
+      "address": "City Mall, Jl. Asia Afrika No.19, RT.1/RW.3",
+      "description": "Closed ⋅ Opens 8 AM  (0727) 81111",
+      "serviceOptions": "Dine-inTakeaway",
+      "gpsCoordinates": {
+        "latitude": "-6.2260936",
+        "longitude": "106.799186"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Reserve+Senayan+City/data=!4m7!3m6!1s0x2e69f198115fcf87:0x5880dec532138dd7!8m2!3d-6.2260936!4d106.799186!16s%2Fg%2F11tsf8x0dc!19sChIJh89fEZjxaS4R140TMsXegFg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f198115fcf87:0x5880dec532138dd7"
+    },
+    {
+      "title": "Starbucks Kuningan City",
+      "rating": "4.5",
+      "reviews": "1,188",
+      "type": "Coffee shop",
+      "address": "14, Jl. Prof. DR. Satrio No.18, RW.4",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 30480674",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2247732",
+        "longitude": "106.8296243"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Kuningan+City/data=!4m7!3m6!1s0x2e69f3fa7b6ff7bb:0x7c54f27595012b23!8m2!3d-6.2247732!4d106.8296243!16s%2Fg%2F1pv6xv3q9!19sChIJu_dve_rzaS4RIysBlXXyVHw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3fa7b6ff7bb:0x7c54f27595012b23"
+    },
+    {
+      "title": "Starbucks Ba'Be",
+      "rating": "5.0",
+      "reviews": "1",
+      "type": "Coffee shop",
+      "address": "RRC9+MG2, RT.4/RW.3",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Temporarily closed  (021) 9800378",
+      "serviceOptions": "",
+      "gpsCoordinates": {
+        "latitude": "-6.1783513",
+        "longitude": "106.8187527"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Ba%27Be/data=!4m7!3m6!1s0x2e69f574aff5dc55:0x3b286ff876b9a177!8m2!3d-6.1783513!4d106.8187527!16s%2Fg%2F11gy6tk78m!19sChIJVdz1r3T1aS4Rd6G5dvhvKDs?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f574aff5dc55:0x3b286ff876b9a177"
+    },
+    {
+      "title": "Starbucks Setiabudi One",
+      "rating": "4.5",
+      "reviews": "944",
+      "type": "Coffee shop",
+      "address": "Jl. H. R. Rasuna Said No.1-2a, RT.18/RW.2",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 52901036",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2157754",
+        "longitude": "106.8301967"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Setiabudi+One/data=!4m7!3m6!1s0x2e69f3f7933064f7:0x65c38fec00c09955!8m2!3d-6.2157754!4d106.8301967!16s%2Fg%2F1tl5cn4_!19sChIJ92Qwk_fzaS4RVZnAAOyPw2U?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3f7933064f7:0x65c38fec00c09955"
+    },
+    {
+      "title": "Starbucks Arteri Pondok Indah",
+      "rating": "4.7",
+      "reviews": "1,287",
+      "type": "Coffee shop",
+      "address": "Ruko, Jl. Arteri Pd. Indah No.3, RT.3/RW.5",
+      "openState": "Closed ⋅ Opens 7:30 AM",
+      "phone": "Closed ⋅ Opens 7:30 AM",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2546753",
+        "longitude": "106.7819351"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Arteri+Pondok+Indah/data=!4m7!3m6!1s0x2e69f117ae6f60a3:0x209df081c5035d67!8m2!3d-6.2546753!4d106.7819351!16s%2Fg%2F11f3n9kg63!19sChIJo2BvrhfxaS4RZ10DxYHwnSA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f117ae6f60a3:0x209df081c5035d67"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.4",
+      "reviews": "2,215",
+      "type": "Coffee shop",
+      "address": "Starbucks Stasiun, Area Keberangkatan Jl. Medan Merdeka Tim. No.5, RW.2",
+      "openState": "Closed ⋅ Opens 5:30 AM",
+      "phone": "Closed ⋅ Opens 5:30 AM",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.177261",
+        "longitude": "106.830838"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e69f5d22151020b:0x2c510b5f380d9603!8m2!3d-6.177261!4d106.830838!16s%2Fg%2F12hmcs2wq!19sChIJCwJRIdL1aS4RA5YNOF8LUSw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f5d22151020b:0x2c510b5f380d9603"
+    },
+    {
+      "title": "Starbucks Graha Raya",
+      "rating": "4.8",
+      "reviews": "218",
+      "type": "Coffee shop",
+      "address": "QM9M+W72",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 53131907",
+      "website": "https://www.starbucks.com/store-locator/store/1033068/dt-graha-raya-tangerang-jalan-graha-raya-tangerang-bt-15145-id",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inDrive-throughNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2302333",
+        "longitude": "106.6831502"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Graha+Raya/data=!4m7!3m6!1s0x2e69fb8ef088a831:0x80299a51650bdff5!8m2!3d-6.2302333!4d106.6831502!16s%2Fg%2F11q4k65ymv!19sChIJMaiI8I77aS4R9d8LZVGaKYA?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69fb8ef088a831:0x80299a51650bdff5"
+    },
+    {
+      "title": "Starbucks Landmark Tower",
+      "rating": "5.0",
+      "reviews": "1",
+      "type": "Coffee shop",
+      "address": "QR99+P67, Unnamed Road, RT.6/RW.1",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Closed ⋅ Opens 10 AM",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2307213",
+        "longitude": "106.8180411"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Landmark+Tower/data=!4m7!3m6!1s0x2e69f3743e13c4b3:0x2ecdf9db7ae962dc!8m2!3d-6.2307213!4d106.8180411!16s%2Fg%2F11h5nph2_m!19sChIJs8QTPnTzaS4R3GLpetv5zS4?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3743e13c4b3:0x2ecdf9db7ae962dc"
+    },
+    {
+      "title": "Starbucks Plaza Senayan",
+      "rating": "4.7",
+      "reviews": "777",
+      "type": "Coffee shop",
+      "address": "QQGX+GGC, Jl. Asia Afrika, RT.1/RW.3",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 57900073",
+      "website": "https://www.starbucks.com/store-locator/store/3399/plaza-senayan-jl-asia-afrika-no-8-jakarta-jk-10270-id",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2236979",
+        "longitude": "106.798781"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Plaza+Senayan/data=!4m7!3m6!1s0x2e69f1f2d3b51153:0x3cbacf791406f19a!8m2!3d-6.2236979!4d106.798781!16s%2Fg%2F11j2fyllfb!19sChIJUxG10_LxaS4RmvEGFHnPujw?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f1f2d3b51153:0x3cbacf791406f19a"
+    },
+    {
+      "title": "Starbucks Medialand",
+      "rating": "4.8",
+      "reviews": "36",
+      "type": "Cafe",
+      "address": "Medialand Tower, Jl. H. R. Rasuna Said No.2, RW.6",
+      "openState": "Closed ⋅ Opens 8 AM Mon",
+      "phone": "(021) 29079646",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2097725",
+        "longitude": "106.8309993"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Medialand/data=!4m7!3m6!1s0x2e69f40f0d223a23:0x3d97c19c09ca7900!8m2!3d-6.2097725!4d106.8309993!16s%2Fg%2F11c75yt75g!19sChIJIzoiDQ_0aS4RAHnKCZzBlz0?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f40f0d223a23:0x3d97c19c09ca7900"
+    },
+    {
+      "title": "Starbucks Pantai Indah Kapuk",
+      "rating": "4.6",
+      "reviews": "1,966",
+      "type": "Coffee shop",
+      "address": "Jl. Pantai Indah Utara 2 Blok 8 No.Kav 1",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "+91 1860 266 0010",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1161232",
+        "longitude": "106.7573569"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Pantai+Indah+Kapuk/data=!4m7!3m6!1s0x2e6a1d12be91c003:0x314641ea82c1ee3e!8m2!3d-6.1161232!4d106.7573569!16s%2Fg%2F11bwfl07zr!19sChIJA8CRvhIdai4RPu7BgupBRjE?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e6a1d12be91c003:0x314641ea82c1ee3e"
+    },
+    {
+      "title": "Starbucks Muara Karang",
+      "rating": "4.7",
+      "reviews": "938",
+      "type": "Coffee shop",
+      "address": "Jl. Muara Karang Raya No.215, RT.10/RW.8",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 22666912",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.116436",
+        "longitude": "106.7779875"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Muara+Karang/data=!4m7!3m6!1s0x2e6a1d282a2d1b43:0x796d738fc5a78dd8!8m2!3d-6.116436!4d106.7779875!16s%2Fg%2F11f92bw4fd!19sChIJQxstKigdai4R2I2nxY9zbXk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e6a1d282a2d1b43:0x796d738fc5a78dd8"
+    },
+    {
+      "title": "Starbucks Plaza Festival",
+      "rating": "4.5",
+      "reviews": "600",
+      "type": "Coffee shop",
+      "address": "Plaza Festival, Jl. H R Rasuna Said Kav C No. 22, Karet Kuningan, Setiabudi, RT.2/RW.5",
+      "openState": "Closed ⋅ Opens 8 AM",
+      "phone": "(021) 29410855",
+      "website": "https://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2206375",
+        "longitude": "106.8323776"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Plaza+Festival/data=!4m7!3m6!1s0x2e69f3f6dd084081:0xc5e0016cdc7f636f!8m2!3d-6.2206375!4d106.8323776!16s%2Fg%2F11c2p01kqm!19sChIJgUAI3fbzaS4Rb2N_3GwB4MU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3f6dd084081:0xc5e0016cdc7f636f"
+    },
+    {
+      "title": "Starbucks Gunung Sahari",
+      "rating": "4.6",
+      "reviews": "772",
+      "type": "Coffee shop",
+      "address": "Komplek Marinatama Blok A 26, Jl. Gn. Sahari No.1, RT.1/RW.13",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 64700515",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1341373",
+        "longitude": "106.8321295"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Gunung+Sahari/data=!4m7!3m6!1s0x2e69f5f7d219ca97:0x68717cc807e173bf!8m2!3d-6.1341373!4d106.8321295!16s%2Fg%2F11ckr595zx!19sChIJl8oZ0vf1aS4Rv3PhB8h8cWg?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f5f7d219ca97:0x68717cc807e173bf"
+    },
+    {
+      "title": "Starbucks Cyber 2 Tower",
+      "rating": "4.5",
+      "reviews": "409",
+      "type": "Cafe",
+      "address": "Cyber 2, Lantai GF, Blok X-5 Kav 1-2, Jl. H. R. Rasuna Said, RT.7/RW.2",
+      "openState": "Closed ⋅ Opens 6:30 AM Mon",
+      "phone": "(021) 25535169",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.226306",
+        "longitude": "106.8321928"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Cyber+2+Tower/data=!4m7!3m6!1s0x2e69f3f0314548d9:0x26a6197d35e93f91!8m2!3d-6.226306!4d106.8321928!16s%2Fg%2F11bzt275td!19sChIJ2UhFMfDzaS4RkT_pNX0ZpiY?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3f0314548d9:0x26a6197d35e93f91"
+    },
+    {
+      "title": "Starbucks Coffee - Menara Kadin",
+      "rating": "4.5",
+      "reviews": "91",
+      "type": "Coffee shop",
+      "address": "Jl. H. R. Rasuna Said Blok X No.1 Kuningan Tim. Kota SelatanSetia Budi, RT.1/RW.2",
+      "openState": "Closed ⋅ Opens 8 AM Mon",
+      "phone": "(021) 57904199",
+      "website": "https://www.starbucks.com/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2323038",
+        "longitude": "106.831821"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Coffee+-+Menara+Kadin/data=!4m7!3m6!1s0x2e69f3e8cd5ba1fb:0x3bea4afc61264770!8m2!3d-6.2323038!4d106.831821!16s%2Fg%2F11c44w_b0n!19sChIJ-6FbzejzaS4RcEcmYfxK6js?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f3e8cd5ba1fb:0x3bea4afc61264770"
+    },
+    {
+      "title": "Starbucks",
+      "rating": "4.5",
+      "reviews": "749",
+      "type": "Coffee shop",
+      "address": "Jl. Pluit Indah No.99, RT.1/RW.4",
+      "openState": "Closed ⋅ Opens 11 AM",
+      "phone": "(021) 66670949",
+      "website": "http://www.starbucks.co.id/",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.1166539",
+        "longitude": "106.7895673"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks/data=!4m7!3m6!1s0x2e6a1d9700000009:0x32f5b8edbbe3ea7f!8m2!3d-6.1166539!4d106.7895673!16s%2Fg%2F1q5br73m6!19sChIJCQAAAJcdai4Rf-rju-249TI?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e6a1d9700000009:0x32f5b8edbbe3ea7f"
+    },
+    {
+      "title": "Starbucks Kemang Sky",
+      "rating": "4.5",
+      "reviews": "2,521",
+      "type": "Cafe",
+      "address": "Jl. Kemang Raya No.12",
+      "openState": "Closed ⋅ Opens 6:30 AM",
+      "phone": "(021) 7182615",
+      "website": "https://www.starbucks.com/store-locator/store/19367/kemang-sky-jl-kemang-raya-12-jakarta-jk-12730-id",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inTakeawayNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2578055",
+        "longitude": "106.8148757"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+Kemang+Sky/data=!4m7!3m6!1s0x2e69f17f77f429e9:0x25aa575bd79c4341!8m2!3d-6.2578055!4d106.8148757!16s%2Fg%2F11c2pfmhfw!19sChIJ6Sn0d3_xaS4RQUOc11tXqiU?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f17f77f429e9:0x25aa575bd79c4341"
+    },
+    {
+      "title": "Starbucks DT Mampang Business Park",
+      "rating": "4.7",
+      "reviews": "246",
+      "type": "Coffee shop",
+      "address": "PRVH+69J, RT.7/RW.2",
+      "openState": "Closed ⋅ Opens 7 AM",
+      "phone": "(021) 26962091",
+      "description": "Iconic Seattle-based coffeehouse chain",
+      "serviceOptions": "Dine-inDrive-throughNo-contact delivery",
+      "gpsCoordinates": {
+        "latitude": "-6.2569195",
+        "longitude": "106.8284004"
+      },
+      "placeUrl": "https://www.google.com/maps/place/Starbucks+DT+Mampang+Business+Park/data=!4m7!3m6!1s0x2e69f362875986c7:0x913ff9017666aa6!8m2!3d-6.2569195!4d106.8284004!16s%2Fg%2F11qh1fjw24!19sChIJx4ZZh2LzaS4RpmpmF5D_Ewk?authuser=0&hl=en&rclk=1",
+      "dataId": "0x2e69f362875986c7:0x913ff9017666aa6"
+    }
+  ]
+}
